@@ -1,4 +1,5 @@
 // Valeria Hernández Mendoza
+// Luis Ernesto Verduzco Ramos 
 #include <stdio.h>
 
 int main()
